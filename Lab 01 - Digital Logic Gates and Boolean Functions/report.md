@@ -77,23 +77,32 @@ Together, these concepts form the foundation for designing and building digital 
 
 # ***Circuit Diagrams:***
 
-### Experiment \- 1 ![][image1]![][image2]![][image3]
-
- Fig A: AND Gate             Fig B: OR Gate                Fig C: NOT Gate  
-
-### ![][image4]![][image5]![][image6]
-
-           Fig D: NAND Gate             Fig E: XOR Gate     		Fig F: NOR Gate
+### Experiment \- 1 
+![](image1.png)  
+Fig A: AND Gate  
+![](image2.png)  
+Fig B: OR Gate  
+![](image3.png)  
+Fig C: NOT Gate  
+![](image4.png)  
+Fig D: NAND Gate  
+![](image5.png)  
+Fig E: XOR Gate  
+![](image6.png)  
+Fig F: NOR Gate  
+                             		
 
 ### Experiment \- 2
 
-![][image7]  
-Fig G: Circuit Diagram of F \= (A . B) . C		Fig H: Circuit Diagram of F \= (A \+ B) \+ C
+![](image7.png)  
+Fig G: Circuit Diagram of F \= (A . B) . C  
+
+![](image8.png)  
+Fig H: Circuit Diagram of F \= (A \+ B) \+ C  
 
 ### Experiment \- 3
-
-![][image8]  
-			Fig I: Circuit Diagram of F \= A′ . C \+ A . B′ \+ B . C 
+![](image9.png)  
+Fig I: Circuit Diagram of F \= A′ . C \+ A . B′ \+ B . C  
 
 # ***Data Tables:***
 
@@ -236,10 +245,10 @@ This helped us understand how logical operations can be used to perform tasks ef
 
 - Check for faulty wires before the experiment to ensure proper connection  
 - Use an IC Remover so that the IC pins don’t become damaged.  
--  Ensure proper connection of input and output pins: Always apply input voltages only to designated input pins and measure/output signals only from designated output pins. Incorrect connections may damage the circuit components or produce erroneous results.
+- Ensure proper connection of input and output pins: Always apply input voltages only to designated input pins and measure/output signals only from designated output pins. Incorrect connections may damage the circuit components or produce erroneous results.
 
 # ***Simulation**:*
 
 Simulation for the Boolean Expression F \= A′ . C \+ A . B′ \+ B . C  
-![][image9]  
+![](image10.png)  
 	Fig J: Simulation for the Boolean Expression F \= A′ . C \+ A . B′ \+ B . C 
