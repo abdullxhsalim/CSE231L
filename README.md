@@ -3,10 +3,10 @@
 This repository contains all lab reports and simulation files for **CSE231L: Digital Logic Design Lab**, completed in **Summer 2024** at **North South University**.
 
 ## Team Members
-- Abdullah Salim  
-- Liana Shams  
-- Mohammad Yasir  
-- Afsana Umme Kulsum Eaty
+- [Liana Shams](https://www.linkedin.com/in/liana-shams/)
+- [Abdullah Salim](www.linkedin.com/in/abdullxhsalim)  
+- [Mohammad Yasir](https://www.linkedin.com/in/md-yasir-xt/)  
+- [Afsana Umme Kulsum Eaty](https://www.facebook.com/eaty.afsana.3) 
 
 ## Instructor
 **Dr. Khaleda Ali (KdA1)**  
@@ -25,8 +25,7 @@ Each lab is organized into its own folder and includes the following components:
 - LogiSim Simulation Screenshot
 
 ## Tools Used
-- Logisim  
-- Additional digital simulation tools as instructed
+- LogiSim
 
 ## Purpose of this Repository
 This repository is intended to demonstrate the proper structure and formatting of Digital Logic Design Lab reports. It serves as a reference to help students understand how to document and present their lab work effectively.
