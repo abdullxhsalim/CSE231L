@@ -71,7 +71,7 @@ These principles guide the process of converting AND, OR, and NOT gates into equ
 | 1 | 0 | 1 | 0 |
 | 1 | 1 | 0 | 1 |
 
- 	Table 2: Implementation of XOR and XNOR using NAND gates
+ Table 2: Implementation of XOR and XNOR using NAND gates
 
 | A | B | NOT Gate (A+A)’ | OR Gate ((A+A)’ \+ (B+B)’)’ | AND Gate((A+A)’+(B+B)’)’ | XOR ((((A+B)’+(A+A)’)’+((A+B)’+(B+B)’)’)’ \+ (((A+B)’+(A+A)’)’+((A+B)’+(B+B)’)’)’)’ | XNOR(((A+B)’+(A+A)’)’+((A+B)’+(B+B)’)’)’ |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -98,8 +98,8 @@ These principles guide the process of converting AND, OR, and NOT gates into equ
 # ***Report:***
 
 ### Q1.  
-![](image1)  
-
+![](image1.png)  
+Figure B2
 ### Convert the combinational circuit of Figure B2 to a universal gate circuit using NOR gates only and simulate it using Logisim. You will need to convert the circuit to 2nd Canonical form and then minimize it before performing this conversion. Provide the Logisim circuit schematic with your report.
 
 Answer:
@@ -151,5 +151,5 @@ In practical applications, the ability to design circuits using only NAND or NOR
 
 Simulation for the Boolean Expression F \= (A’ \+ C’)’ \+ (B’ \+ C)’  
 
-![](image2)
+![](image2.png)
 
