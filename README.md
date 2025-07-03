@@ -27,6 +27,20 @@ Each lab is organized into its own folder and includes the following components:
 ## Tools Used
 - LogiSim
 
+## Lab Reports
+
+| Lab No. | Title                    | Report Link                             |
+|---------|--------------------------|------------------------------------------|
+| Lab 01  | Digital Logic Gates and Boolean Functions              | [View Report](./Lab%2001%20-%20Digital%20Logic%20Gates%20and%20Boolean%20Functions/report.md) |
+| Lab 02  | Universal Gates          | [View Report](./Lab%2002%20-%20Universal%20Gates/report.md) |
+| Lab 03 | Combinational Logic Design                                             | _Link will be added soon_    |
+| Lab 04 | Combinational Logic Design                                             | _Link will be added soon_    |
+| Lab 05 | Binary Arithmetic                                                      | _Link will be added soon_    |
+| Lab 06 | BCD to Seven Segment Decoder                                           | _Link will be added soon_    |
+| Lab 07 | Introduction to Multiplexers & 3 to 8 Line Decoder                     | _Link will be added soon_    |
+| Lab 08 | Introduction to Flip-flop and Registers                                | _Link will be added soon_    |
+| Lab 09 | Synchronous Sequential Circuits                                        | _Link will be added soon_    |
+
 ## Purpose of this Repository
 This repository is intended to demonstrate the proper structure and formatting of Digital Logic Design Lab reports. It serves as a reference to help students understand how to document and present their lab work effectively.
 
